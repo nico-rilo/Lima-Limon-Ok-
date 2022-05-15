@@ -31,4 +31,9 @@ head {
 .container-fluid {
   background-color: #b4a281;
 }
+
+.text-center img {
+  margin: auto;
+  padding: 20px;
+}
 /*# sourceMappingURL=main.css.map */
