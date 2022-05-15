@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "main.scss",
+        "COMPONENTES/_base.scss",
+        "COMPONENTES/_contacto.scss",
+        "COMPONENTES/_envios.scss",
+        "COMPONENTES/_nuestrosclientes.scss",
+        "COMPONENTES/_productosyservicios.scss",
+        "COMPONENTES/_index.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
