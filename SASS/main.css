@@ -4,32 +4,8 @@ body {
   background-repeat: no-repeat;
 }
 
-body {
-  background-image: url(/PAGINAS/IMAGENES/fondoindex.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
 .textoEnvios {
   margin: 60px;
-}
-
-body {
-  background-image: url(/PAGINAS/IMAGENES/fondoindex.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
-head {
-  background-image: url(/PAGINAS/IMAGENES/fondoindex.jpg);
-  background-size: cover;
-  background-repeat: repeat;
-}
-
-head {
-  background-image: url(/PAGINAS/IMAGENES/fondoindex.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 
 .container-fluid {
