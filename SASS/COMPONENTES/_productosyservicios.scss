@@ -1,0 +1,11 @@
+.big-container {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin: 25px;
+
+    .list-line {
+        display:flex;
+        justify-content: space-between;
+    }
+}
